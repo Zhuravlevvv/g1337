@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\optpaisd\OpTpAisd\dblLinkedList\bin\Debug\netcoreapp3.1\dblLinkedList.exe
+C:\Users\User\Desktop\optpaisd\OpTpAisd\dblLinkedList\bin\Debug\netcoreapp3.1\dblLinkedList.deps.json
+C:\Users\User\Desktop\optpaisd\OpTpAisd\dblLinkedList\bin\Debug\netcoreapp3.1\dblLinkedList.runtimeconfig.json
+C:\Users\User\Desktop\optpaisd\OpTpAisd\dblLinkedList\bin\Debug\netcoreapp3.1\dblLinkedList.runtimeconfig.dev.json
+C:\Users\User\Desktop\optpaisd\OpTpAisd\dblLinkedList\bin\Debug\netcoreapp3.1\dblLinkedList.dll
+C:\Users\User\Desktop\optpaisd\OpTpAisd\dblLinkedList\bin\Debug\netcoreapp3.1\dblLinkedList.pdb
+C:\Users\User\Desktop\optpaisd\OpTpAisd\dblLinkedList\obj\Debug\netcoreapp3.1\dblLinkedList.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\optpaisd\OpTpAisd\dblLinkedList\obj\Debug\netcoreapp3.1\dblLinkedList.AssemblyInfo.cs
+C:\Users\User\Desktop\optpaisd\OpTpAisd\dblLinkedList\obj\Debug\netcoreapp3.1\dblLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\optpaisd\OpTpAisd\dblLinkedList\obj\Debug\netcoreapp3.1\dblLinkedList.dll
+C:\Users\User\Desktop\optpaisd\OpTpAisd\dblLinkedList\obj\Debug\netcoreapp3.1\dblLinkedList.pdb
+C:\Users\User\Desktop\optpaisd\OpTpAisd\dblLinkedList\obj\Debug\netcoreapp3.1\dblLinkedList.genruntimeconfig.cache

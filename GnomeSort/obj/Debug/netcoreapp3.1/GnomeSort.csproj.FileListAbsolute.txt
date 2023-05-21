@@ -1,0 +1,13 @@
+C:\Users\User\Source\Repos\aisd\GnomeSort\bin\Debug\netcoreapp3.1\GnomeSort.exe
+C:\Users\User\Source\Repos\aisd\GnomeSort\bin\Debug\netcoreapp3.1\GnomeSort.deps.json
+C:\Users\User\Source\Repos\aisd\GnomeSort\bin\Debug\netcoreapp3.1\GnomeSort.runtimeconfig.json
+C:\Users\User\Source\Repos\aisd\GnomeSort\bin\Debug\netcoreapp3.1\GnomeSort.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\aisd\GnomeSort\bin\Debug\netcoreapp3.1\GnomeSort.dll
+C:\Users\User\Source\Repos\aisd\GnomeSort\bin\Debug\netcoreapp3.1\GnomeSort.pdb
+C:\Users\User\Source\Repos\aisd\GnomeSort\obj\Debug\netcoreapp3.1\GnomeSort.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\aisd\GnomeSort\obj\Debug\netcoreapp3.1\GnomeSort.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\aisd\GnomeSort\obj\Debug\netcoreapp3.1\GnomeSort.AssemblyInfo.cs
+C:\Users\User\Source\Repos\aisd\GnomeSort\obj\Debug\netcoreapp3.1\GnomeSort.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\aisd\GnomeSort\obj\Debug\netcoreapp3.1\GnomeSort.dll
+C:\Users\User\Source\Repos\aisd\GnomeSort\obj\Debug\netcoreapp3.1\GnomeSort.pdb
+C:\Users\User\Source\Repos\aisd\GnomeSort\obj\Debug\netcoreapp3.1\GnomeSort.genruntimeconfig.cache
