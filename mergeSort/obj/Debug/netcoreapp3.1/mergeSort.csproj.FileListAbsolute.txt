@@ -1,0 +1,13 @@
+C:\Users\User\Source\Repos\aisd\mergeSort\bin\Debug\netcoreapp3.1\mergeSort.exe
+C:\Users\User\Source\Repos\aisd\mergeSort\bin\Debug\netcoreapp3.1\mergeSort.deps.json
+C:\Users\User\Source\Repos\aisd\mergeSort\bin\Debug\netcoreapp3.1\mergeSort.runtimeconfig.json
+C:\Users\User\Source\Repos\aisd\mergeSort\bin\Debug\netcoreapp3.1\mergeSort.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\aisd\mergeSort\bin\Debug\netcoreapp3.1\mergeSort.dll
+C:\Users\User\Source\Repos\aisd\mergeSort\bin\Debug\netcoreapp3.1\mergeSort.pdb
+C:\Users\User\Source\Repos\aisd\mergeSort\obj\Debug\netcoreapp3.1\mergeSort.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\aisd\mergeSort\obj\Debug\netcoreapp3.1\mergeSort.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\aisd\mergeSort\obj\Debug\netcoreapp3.1\mergeSort.AssemblyInfo.cs
+C:\Users\User\Source\Repos\aisd\mergeSort\obj\Debug\netcoreapp3.1\mergeSort.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\aisd\mergeSort\obj\Debug\netcoreapp3.1\mergeSort.dll
+C:\Users\User\Source\Repos\aisd\mergeSort\obj\Debug\netcoreapp3.1\mergeSort.pdb
+C:\Users\User\Source\Repos\aisd\mergeSort\obj\Debug\netcoreapp3.1\mergeSort.genruntimeconfig.cache

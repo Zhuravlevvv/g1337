@@ -1,0 +1,13 @@
+C:\Users\User\Source\Repos\aisd\RadixSort\bin\Debug\netcoreapp3.1\RadixSort.exe
+C:\Users\User\Source\Repos\aisd\RadixSort\bin\Debug\netcoreapp3.1\RadixSort.deps.json
+C:\Users\User\Source\Repos\aisd\RadixSort\bin\Debug\netcoreapp3.1\RadixSort.runtimeconfig.json
+C:\Users\User\Source\Repos\aisd\RadixSort\bin\Debug\netcoreapp3.1\RadixSort.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\aisd\RadixSort\bin\Debug\netcoreapp3.1\RadixSort.dll
+C:\Users\User\Source\Repos\aisd\RadixSort\bin\Debug\netcoreapp3.1\RadixSort.pdb
+C:\Users\User\Source\Repos\aisd\RadixSort\obj\Debug\netcoreapp3.1\RadixSort.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\aisd\RadixSort\obj\Debug\netcoreapp3.1\RadixSort.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\aisd\RadixSort\obj\Debug\netcoreapp3.1\RadixSort.AssemblyInfo.cs
+C:\Users\User\Source\Repos\aisd\RadixSort\obj\Debug\netcoreapp3.1\RadixSort.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\aisd\RadixSort\obj\Debug\netcoreapp3.1\RadixSort.dll
+C:\Users\User\Source\Repos\aisd\RadixSort\obj\Debug\netcoreapp3.1\RadixSort.pdb
+C:\Users\User\Source\Repos\aisd\RadixSort\obj\Debug\netcoreapp3.1\RadixSort.genruntimeconfig.cache
